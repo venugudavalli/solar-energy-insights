@@ -11,8 +11,8 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
  
 **Phase 1:**
 
-    Plot an interactive graphs showing Solar Energy generated, Solar Energy  Exported, Solar Energy Consumed by Household(Imported)
-    and Total energy utilised by property. 
+    Plot an interactive graphs showing Solar Energy generated, Solar Energy  Exported, Solar Energy Consumed by 
+    Household(Imported) and Total energy utilised by property. 
     
     Identify patterns.
     
