@@ -14,9 +14,10 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
     Plot an interactive graphs showing Solar Energy generated, Solar Energy  Exported, Solar Energy Consumed by Household(Imported)
     and Total energy utilised by property. 
     
-    Identify the patterns.
+    Identify patterns.
     
     Plot should be interactive: 
+    
       Hide or show plots by clicking on legend.
       Display units on hovering on data points.
       
