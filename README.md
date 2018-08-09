@@ -31,6 +31,9 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
     csv files (Downloaded from (https://www.owlintuition.com/) & (https://my.sse.co.uk/your-account/login)
     Mongodb : To Store the data for further analysis.
  **Output**
+ loink to the ...https://venugudavalli.github.io/solar-energy-insights/
+ Insights ino data:
+ 
  ![alt text](24Apr-23July2018_smart_Solar_insights.png)
     
         
