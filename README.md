@@ -30,6 +30,8 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
     Jupyter Notebook
     csv files (Downloaded from (https://www.owlintuition.com/) & (https://my.sse.co.uk/your-account/login)
     Mongodb : To Store the data for further analysis.
+ **Output**
+ ![alt text](talks_collection_schema1.PNG)
     
         
   
