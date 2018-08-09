@@ -21,7 +21,8 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
       Hide or show plots by clicking on legend.
       Display units on hovering on data points.
       
-    Calculate the Total Energy consumption in Kwh from Smart Solar Data and compare with the actual billed units from SSE.
+    Calculate the Total Energy consumption in Kwh from Smart Solar Data and compare with the 
+    actual billed units from SSE.
     
 **Technical Components:**
 
