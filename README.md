@@ -42,5 +42,5 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
  The Solar energy generated will be exported to grid will earn 4.11 p per unit. Whereas Elctricity imported from grid will cost 18 p per unit.
  Hence it is obvious that if those high rated appliances are operated during high solar gernation times of a day (1000 to 2000 Hrs) periods then billable units will be minimised. 
  
- Further analysis is required during winter times, solar genration will not be at optimum levels, to understand the overal utilisation of solar energy and predict roi.
+ Further analysis is required during winter times, as solar genration will not be at optimum levels, to understand the overal utilisation of solar energy and predict roi.
   
