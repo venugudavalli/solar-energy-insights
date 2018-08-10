@@ -1,4 +1,4 @@
-# solar investment insights
+# Solar investment insights
 A household has invested £7000 on Solar Panels. Electricity bills stands at £180 between Apr &amp; July 2018. Is this investment worth. Let us find out what Data Says?
 
 ***Data:*** 
@@ -36,5 +36,11 @@ A household has invested £7000 on Solar Panels. Electricity bills stands at £1
  
  ![alt text](24Apr-23July2018_smart_Solar_insights.png)
     
-        
+ Conclusions: Data is collected between April & July, which seems to be  very productive for SOlar Energy Generation.
+ There are certain home appliances Eelctric Coocker, Vaccum Cleaner, Iron Box, Washing Machine which consumes higher units when compared to other lighting , compuetrs, TV etc.
+ 
+ The Solar energy generated will be exported to grid will earn 4.11 p per unit. Whereas Elctricity imported from grid will cost 18 p per unit.
+ Hence it is obvious that if those high rated appliances are operated during high solar gernation times of a day (1000 to 2000 Hrs) periods then billable units will be minimised. 
+ 
+ Further analysis is required during winter times, solar genration will not be at optimum levels, to understand the overal utilisation of solar energy and predict roi.
   
